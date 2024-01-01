@@ -2,7 +2,7 @@
 
 <h4>Prepare Nakuru time series data</h4>
 <h4>Create linear model to predict PM2.5 reading</h4>
-
+<h4>Create Autoregression (AR) model to predict PM2.5 reading</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
